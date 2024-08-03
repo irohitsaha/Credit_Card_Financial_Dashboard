@@ -4,29 +4,29 @@
 This project aims to provide a comprehensive analysis of credit card transactions and customer data using Power BI. By leveraging real-time data, the dashboard offers valuable insights that can help improve financial decision-making and customer service.
 
 # Objectives
-* Provide real-time insights into key financial metrics.
-* Track performance across different card categories.
-* Monitor trends over various time periods.
+ * Provide real-time insights into key financial metrics.
+ * Track performance across different card categories.
+ * Monitor trends over various time periods.
 
 # Tools Used
-* **MySQL**: Used for data storage and querying transaction and customer data.
-* **Power BI**: Utilized for creating interactive dashboards and visualizations.
-* **Power Query**: Employed for data transformation and preparation.
+ * **MySQL**: Used for data storage and querying transaction and customer data.
+ * **Power BI**: Utilized for creating interactive dashboards and visualizations.
+ * **Power Query**: Employed for data transformation and preparation.
 # Data Sources
 * **Types of Data Collected**:
-* Transaction data (amount, date, time, location)
-* Customer demographics (age, gender, income level, location)
+ * Transaction data (amount, date, time, location)
+ * Customer demographics (age, gender, income level, location)
 * **Data Preparation**:
-* Data cleaning (handling missing values, removing duplicates)
-* Data transformation (normalizing, aggregating)
+ * Data cleaning (handling missing values, removing duplicates)
+ * Data transformation (normalizing, aggregating)
 # Dashboard Overview
 # Dashboard Components:
-* Card Category Analysis Page
-* Customer Insights Page
+ * Card Category Analysis Page
+ * Customer Insights Page
 # Key Visualizations:
-* Bar charts
-* Line graphs
-* Tables
+ * Bar charts
+ * Line graphs
+ * Tables
 # Insights
 # Revenue Distribution
 * **Total Revenue**: Approximately $57M
