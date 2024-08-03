@@ -9,9 +9,9 @@ This project aims to provide a comprehensive analysis of credit card transaction
 * Monitor trends over various time periods.
 
 # Tools Used
-*# MySQL: Used for data storage and querying transaction and customer data.
-*# Power BI: Utilized for creating interactive dashboards and visualizations.
-*# Power Query: Employed for data transformation and preparation.
+* **MySQL**: Used for data storage and querying transaction and customer data.
+* **Power BI**: Utilized for creating interactive dashboards and visualizations.
+* **Power Query**: Employed for data transformation and preparation.
 # Data Sources
 *# Types of Data Collected:
 * Transaction data (amount, date, time, location)
