@@ -71,13 +71,11 @@ This project aims to provide a comprehensive analysis of credit card transaction
   * Self-employed customers: 1.66%
 # Card Activation
 * **Cards Activated Within 30 Days**: 57.46%
-* **Highest Activation Rate**:
-  * Bills category: 16.76%
+* **Highest Activation Rate**: Bills category: 16.76%
 # Other Insights
 * **Average Credit Limit**: $8.64K
 * **Total Customer Income**: $588M
-* **Top States by Revenue**:
-  * Texas, New York, California are among the top 5 states
+* **Top States by Revenue**: Texas, New York, California are among the top 5 states
 # Implementation Process
 # Steps Taken:
 1. **Data Integration and ETL Processes**:
@@ -101,7 +99,7 @@ This project aims to provide a comprehensive analysis of credit card transaction
   * Recap of the project's objectives and outcomes
   * Key takeaways from the analysis
   * Future improvements and next steps
-#Q&A
+# Q&A
 For any questions or discussions, feel free to reach out.
 
 # Thank You
